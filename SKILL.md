@@ -1,6 +1,6 @@
 ---
 name: agent-instruction-slimming
-description: "Reduce an agent instruction file (AGENTS.md, system prompt, rule file) without losing coverage: lever order (remove > move > reformat > rewrite), verbatim-subset edits with pointer lines, joint marker accounting, and tiering by frequency and reversibility. Use when a rule file has grown too large, when rules are being ignored, or before adding more rules. Tool-agnostic; includes marker counting and subset checking scripts."
+description: "Reduce an agent instruction file (AGENTS.md, system prompt, rule file) without losing coverage: lever order (remove first, move second, reformat third, rewrite last), verbatim-subset edits with pointer lines, joint marker accounting, and tiering by frequency and reversibility. Use when a rule file has grown too large, when rules are being ignored, or before adding more rules. Tool-agnostic; includes marker counting and subset checking scripts."
 license: MIT
 ---
 
