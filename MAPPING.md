@@ -5,7 +5,7 @@
 
 | 本仓 | 本机 | 说明 |
 |---|---|---|
-| `scripts/cond_count.py` | `<skill>/scripts/cond-count.py` | **仅连字符/下划线之差**，内容一致；本地已按本表统一为 cond_count.py |
+| `scripts/cond_count.py` | `<skill>/scripts/cond_count.py` | **仅连字符/下划线之差**，内容一致；本地已按本表统一为 cond_count.py |
 | `scripts/subset_check.py` | `（无）` | 本地未落地 |
 
 ## 同步规则
