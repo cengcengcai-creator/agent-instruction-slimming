@@ -1,3 +1,5 @@
+> Part of [Agent Governance Skills](https://github.com/cengcengcai-creator/openclaw-agent-governance) - five skills that make agent rules actually hold.
+
 # agent-instruction-slimming
 
 An AgentSkill for reducing an instruction file (AGENTS.md, system prompt, rule file) **without losing coverage** — and for measuring that claim instead of asserting it.
